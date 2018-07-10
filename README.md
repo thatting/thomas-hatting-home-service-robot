@@ -1,7 +1,4 @@
-# thomas-hatting-home-service-robot
-
-
-Project Where Am I
+# Project Home Service Robot
 
 PROJECT LICENSE
 
